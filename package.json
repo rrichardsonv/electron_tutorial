@@ -1,0 +1,19 @@
+{
+  "name": "electron_tutorial",
+  "version": "1.0.0",
+  "description": "frontend masters tutorial on electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrichardsonv/electron_tutorial.git"
+  },
+  "author": "Robert Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrichardsonv/electron_tutorial/issues"
+  },
+  "homepage": "https://github.com/rrichardsonv/electron_tutorial#readme"
+}
